@@ -3,8 +3,6 @@ package flower.store;
 import java.util.ArrayList;
 
 public class FlowerBucket {
-
-    
     private ArrayList<FlowerPack> bucketOfFlowers;
     private double bucketPrice;
     public FlowerBucket(ArrayList<FlowerPack> packOfFlowers) {
