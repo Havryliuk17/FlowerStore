@@ -10,7 +10,6 @@ public class FlowerBucket {
         this.bucketOfFlowers = packOfFlowers;
     }
     public FlowerBucket() {
-        // empty flower bucket
         this.bucketOfFlowers = new ArrayList<FlowerPack>();
     }
     public void add(FlowerPack flowerPack) {
